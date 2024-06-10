@@ -68,4 +68,18 @@ and also can define due date for a task.
 
         • Unit tests are provided for key functionalities.
 
-![1](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/1.png?raw=true)![2](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/2.png?raw=true)![3](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/3.png?raw=true)![4](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/4.png?raw=true)![5](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/5.png?raw=true)![6](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/6.png?raw=true)![7](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/7.png?raw=true)![8](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/8.png?raw=true)
+![1](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/1.png?raw=true)
+
+![2](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/2.png?raw=true)
+
+![3](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/3.png?raw=true)
+
+![4](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/4.png?raw=true)
+
+![5](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/5.png?raw=true)
+
+![6](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/6.png?raw=true)
+
+![7](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/7.png?raw=true)
+
+![8](https://github.com/KrishnaSoftwareSolution/todolistapp/blob/main/screenshots/8.png?raw=true)
